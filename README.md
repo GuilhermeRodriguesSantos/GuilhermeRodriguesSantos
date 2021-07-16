@@ -10,5 +10,3 @@ Olá,👋 eu sou o Guilherme Rodrigues
 	
 <hr>
 
-
-![Snake animation](https://github.com/guilhermerodriguessantos/guilhermerodriguessantos/blob/output/github-contribution-grid-snake.svg)
