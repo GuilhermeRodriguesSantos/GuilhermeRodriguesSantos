@@ -1,4 +1,4 @@
-Olá, eu sou o Guilherme Rodrigues 
+Olá,👋 eu sou o Guilherme Rodrigues 
 
 <p align="center">
 <details> <p align="center">
