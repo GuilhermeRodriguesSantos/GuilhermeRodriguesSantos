@@ -7,3 +7,4 @@ Olá,👋 eu sou o Guilherme Rodrigues
 	
 ![Guilherme Rodrigues github stats](https://github-readme-stats.vercel.app/api?username=GuilhermeRodriguesSantos&theme=react&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRodriguesSantos&layout=compact&theme=react&show)
 	
+ ![Snake animation](https://github.com/GuilhermeRodriguesSantos/GuilhermeRodriguesSantos/blob/output/github-contribution-grid-snake.svg) 
