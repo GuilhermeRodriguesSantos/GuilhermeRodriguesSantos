@@ -1,4 +1,4 @@
-Olá,👋 eu sou o Guilherme Rodrigues 
+Olá, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> eu sou o Guilherme Rodrigues 
 
  <p align="center">
 <details> <p align="center">
