@@ -2,7 +2,7 @@
 
  #### 🔰 Sempre buscando novos conhecimentos e habilidades para me aperfeiçoar 🔰
  
-• 🎓 Desenvolvedor Fullstack Java Jr - Em formação 
+• 🎓 Desenvolvedor Fullstack Java Junior - Em formação 
 
 • 🎓 Estudante Análise e Desenvolvimento de Sistemas na FAM (Faculdade das Américas) 
 
