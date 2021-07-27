@@ -8,7 +8,10 @@
 
 • 📍 Guaianases São Paulo- SP
 
-
+<details>
+<summary> <b> Clique aqui para saber mais</b> <i>(Clique aqui!)</i> </summary>
+<br>
+</p>
 ### Entre em contato comigo através da minha rede sociail📲
 
 <a href="https://www.linkedin.com/in/guilhermedev/" alt= "LinkedIN" target= "_blank">
