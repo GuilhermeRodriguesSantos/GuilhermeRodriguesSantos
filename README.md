@@ -2,7 +2,7 @@
 
  #### 🔰 Sempre buscando novos conhecimentos e habilidades para me aperfeiçoar 🔰
  
-• 🎓 Desenvolvedor Fullstack Java Junior - Em formação 
+• 🎓 Desenvolvedor Fullstack Java Junior
 
 • 🎓 Estudante Análise e Desenvolvimento de Sistemas na FAM (Faculdade das Américas) 
 
@@ -23,7 +23,6 @@
 ![Github sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
- <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
  <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
  ![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,7 +30,7 @@
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red"/>
     <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img alt="PostgreeSQL" src ="https://img.shields.io/badge/PostgreeSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 
 
 
